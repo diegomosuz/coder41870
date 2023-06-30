@@ -2,3 +2,7 @@ Archivo creado en el repositorio REMOTO
 
 
 Modificación desde el repositorio LOCAL
+
+
+
+Modificación particular en una rama que no es la main
